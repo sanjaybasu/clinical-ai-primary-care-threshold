@@ -1,0 +1,10 @@
+{
+  "model": "Recentered PC-attributable AI threshold",
+  "inputs_sha256_16": "c8927561428c9657",
+  "seed": 20260720,
+  "n_draws": 20000,
+  "python": "3.9.6",
+  "numpy": "2.0.2",
+  "pandas": "2.3.3",
+  "generated_utc": "set REDERIVE_TS for stamped run"
+}

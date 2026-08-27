@@ -1,0 +1,11 @@
+metric,value
+elasticity_per10_allcause_point,0.00592
+attributable_excess_high_per_1000,0.0296
+attributable_excess_low_per_1000,0.0222
+required_HR_high_point,0.9846
+required_HR_low_point,0.9923
+required_HR_high_median,0.9859
+required_HR_high_p2.5,0.9705
+required_HR_high_p97.5,0.9932
+prob_demonstrated_effect_offsets_high,1.0
+prob_AI_narrows_gap_at_current_reach,0.135

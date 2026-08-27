@@ -1,0 +1,4 @@
+demonstrated_tool,low_vuln_reach_scenario,low_vuln_reach_used,high_vuln_reach_needed_to_not_widen
+digital_htn_transmitted,low_vuln_reach_low,0.25,0.2
+digital_htn_transmitted,low_vuln_reach_point,0.4,0.313
+digital_htn_transmitted,low_vuln_reach_high,0.6,0.463
