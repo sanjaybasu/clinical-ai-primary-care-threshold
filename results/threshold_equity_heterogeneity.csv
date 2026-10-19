@@ -1,0 +1,13 @@
+transmission,low_vuln_reach_scenario,low_vuln_reach,high_vuln_reach_needed_to_not_widen
+cvdeath,low,0.25,0.2674264881800718
+cvdeath,point,0.4,0.37992648818007185
+cvdeath,high,0.6,0.5299264881800718
+allcause_trial,low,0.25,0.20526585247906703
+allcause_trial,point,0.4,0.3177658524790671
+allcause_trial,high,0.6,0.46776585247906705
+digital_proxy_cvdeath,low,0.25,0.27472209843976747
+digital_proxy_cvdeath,point,0.4,0.3872220984397675
+digital_proxy_cvdeath,high,0.6,0.5372220984397675
+inpatient_ai_upper_bound,low,0.25,0.1920270588235294
+inpatient_ai_upper_bound,point,0.4,0.3045270588235295
+inpatient_ai_upper_bound,high,0.6,0.45452705882352945
